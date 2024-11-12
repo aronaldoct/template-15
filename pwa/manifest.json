@@ -1,0 +1,29 @@
+{
+    "name": "Phone Page",
+    "short_name": "PP",
+    "description": "Pagina de telefonos",
+    "background_color": "#1d1e31",
+    "theme_color": "#1d1e31",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+          "src": "../images/pwa/phone.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+            "src": "../images/pwa/phone1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../images/pwa/phone2.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+  }
